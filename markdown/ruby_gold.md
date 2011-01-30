@@ -1,32 +1,32 @@
-#ŽŽŒ±ŽžŠÔ
--90 •ª
-#ŽŽŒ±•û–@
--ƒRƒ“ƒsƒ…[ƒ^ŽŽŒ±iCBTFComputer Based Testingj ‚¨\‚µž‚Ý
-#–â‘è”i•ûŽ®j
--50 –âi‘I‘ðŽ®j
-#‡Šiƒ‰ƒCƒ“
+#è©¦é¨“æ™‚é–“
+-90 åˆ†
+#è©¦é¨“æ–¹æ³•
+-ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿è©¦é¨“ï¼ˆCBTï¼šComputer Based Testingï¼‰ ãŠç”³ã—è¾¼ã¿
+#å•é¡Œæ•°ï¼ˆæ–¹å¼ï¼‰
+-50 å•ï¼ˆé¸æŠžå¼ï¼‰
+#åˆæ ¼ãƒ©ã‚¤ãƒ³
 -75%
-#‘ÎÛƒo[ƒWƒ‡ƒ“
+#å¯¾è±¡ãƒãƒ¼ã‚¸ãƒ§ãƒ³
 #Ruby 1.8.7
-#o‘è”ÍˆÍ
-##ŽÀsŠÂ‹«
--ƒRƒ}ƒ“ƒhƒ‰ƒCƒ“ƒIƒvƒVƒ‡ƒ“
--‘g‚Ýž‚Ý•Ï”/’è”
-##•¶–@
--•Ï”‚Æ’è”
--‰‰ŽZŽq
--ƒuƒƒbƒN
--—áŠOˆ—
--‘åˆæ’Eo
-##ƒIƒuƒWƒFƒNƒgŽwŒü
--ƒƒ\ƒbƒh‚ÌÚ×
--ƒƒ\ƒbƒh‚Ì‰ÂŽ‹«
--ƒNƒ‰ƒX‚ÌÚ×
--ƒNƒ‰ƒX‚ÌŒp³
--ƒ‚ƒWƒ…[ƒ‹‚ÌÚ×
-##‘g‚Ýž‚Ýƒ‰ƒCƒuƒ‰ƒŠ
--‚æ‚­Žg—p‚³‚ê‚éƒNƒ‰ƒXiObjectAKernelAModule“™j
--‚æ‚­Žg—p‚³‚ê‚éƒ‚ƒWƒ…[ƒ‹iEnumerableAComparable“™j
--”’l-³‹K•\Œ»
-##•W€“Y•tƒ‰ƒCƒuƒ‰ƒŠ
--‚æ‚­Žg—p‚³‚ê‚éƒ‰ƒCƒuƒ‰ƒŠisocketArdoc“™j
+#å‡ºé¡Œç¯„å›²
+##å®Ÿè¡Œç’°å¢ƒ
+-ã‚³ãƒžãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ã‚ªãƒ—ã‚·ãƒ§ãƒ³
+-çµ„ã¿è¾¼ã¿å¤‰æ•°/å®šæ•°
+##æ–‡æ³•
+-å¤‰æ•°ã¨å®šæ•°
+-æ¼”ç®—å­
+-ãƒ–ãƒ­ãƒƒã‚¯
+-ä¾‹å¤–å‡¦ç†
+-å¤§åŸŸè„±å‡º
+##ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆæŒ‡å‘
+-ãƒ¡ã‚½ãƒƒãƒ‰ã®è©³ç´°
+-ãƒ¡ã‚½ãƒƒãƒ‰ã®å¯è¦–æ€§
+-ã‚¯ãƒ©ã‚¹ã®è©³ç´°
+-ã‚¯ãƒ©ã‚¹ã®ç¶™æ‰¿
+-ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã®è©³ç´°
+##çµ„ã¿è¾¼ã¿ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
+-ã‚ˆãä½¿ç”¨ã•ã‚Œã‚‹ã‚¯ãƒ©ã‚¹ï¼ˆObjectã€Kernelã€Moduleç­‰ï¼‰
+-ã‚ˆãä½¿ç”¨ã•ã‚Œã‚‹ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ï¼ˆEnumerableã€Comparableç­‰ï¼‰
+-æ•°å€¤-æ­£è¦è¡¨ç¾
+##æ¨™æº–æ·»ä»˜ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
+-ã‚ˆãä½¿ç”¨ã•ã‚Œã‚‹ãƒ©ã‚¤ãƒ–ãƒ©ãƒªï¼ˆsocketã€rdocç­‰ï¼‰
